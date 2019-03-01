@@ -1,4 +1,4 @@
-# MidTerm_Njeri
+# MidTerm_Faith
 
 This project is about creating A course outline that guides students in Africa Digital Media Institute
 
